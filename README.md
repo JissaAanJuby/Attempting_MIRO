@@ -21,7 +21,7 @@ To make the logic easier to grasp, I created a simple visual flowchart of how th
 
 > 📌 Exported from Miro as a PNG
 
-![Reverse Number Flowchart](flowcharts/reverse_number_flowchart.png)
+![Image](https://github.com/user-attachments/assets/2a840679-e074-45f5-a2c3-dc69266bee91)
 
 ---
 
