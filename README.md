@@ -2,6 +2,8 @@
 
 Welcome! This is a personal learning project where I break down the logic of reversing a number.  
 What started as a challenging concept during my early programming journey is now a documented milestone, visualized using a flowchart and implemented in Python.
+And I posted a blog post based on this :
+https://medium.com/@jissaannjuby/the-day-i-drew-my-code-how-a-flowchart-helped-me-understand-reversing-a-number-d03226b48333
 
 ---
 
